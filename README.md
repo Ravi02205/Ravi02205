@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MERN Stack Development
 - 📫 How to reach me :- 
 - G-Mail :- pravi7031@gmail.com
-- Phone No. :- +916351202462 
+- Phone No. :- 6351202462 
 
 <!---
 Ravi02205/Ravi02205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
