@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ravi02205
+- 👋 Hi, I’m Ravi Panchal
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning MERN Stack Development
 - 📫 How to reach me :- 
